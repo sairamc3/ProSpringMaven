@@ -5,4 +5,5 @@ public class GreatGuitarist implements Singer {
     public void sing() {
         System.out.println("It is the song from Great Guitarist");
     }
+
 }
